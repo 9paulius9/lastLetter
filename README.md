@@ -6,6 +6,6 @@ Naudota:
 NetBeans, Maven, Apache Tomcat or TomEE serveris
 
 Projekto Atidarymas:
- -Atsisiųsti .zip failą ir importuoti jį; \n
- -Paleisti serverį kompiuteryje. \n
- -Paleisti(Build) visą projektą. \n
+ -Atsisiųsti .zip failą ir importuoti jį;
+ -Paleisti serverį kompiuteryje.
+ -Paleisti(Build) visą projektą.
